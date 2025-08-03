@@ -7,10 +7,10 @@ This Natural Language Processing (NLP) project analyzes exported WhatsApp chat d
 
 ## Installation
 
-1. Clone the repository to your local machine. ``` git clone: https://rohan12-stack.github.io/smart-attendance/ ```
+1. Clone the repository to your local machine. ``` git clone: https://github.com/Rohan12-stack/Chat-analyser ```
 2. Install the required packages using ```pip install -r requirements.txt```.
 3. Run processor.py and helper.py
-4. Run the app.py by entering "streamlit run app.py"
+4. Run the app.py by entering "streamlit run app.py" in your IDE terminal.
 
 
 
