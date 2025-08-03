@@ -1,5 +1,5 @@
 #  WhatsApp Chat Analyser
-![Project Screenshot](SAS.jpeg)
+![Project Screenshot](WCA.jpeg)
 Rohan.B  1RVU22BSC082  
 
 
